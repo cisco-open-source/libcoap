@@ -19,7 +19,7 @@ This protocol, CoAP, is developed in the IETF working group "CoRE"
 
 %build
 %configure
-make -d
+make
 
 %install
 mkdir -p %{buildroot}%{_libdir}/examples
