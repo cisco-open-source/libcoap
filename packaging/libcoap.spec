@@ -6,7 +6,6 @@ License:        BSD
 Summary:        Lightweight application-protocol for devices that are constrained their resources such as computing power, RF range, memory, bandwith, or network packet sizes.
 Url:            http://sourceforge.net/projects/libcoap/
 Source:         %{name}-%{version}.tar.gz
-Conflicts:      iotivity
 
 %description
 Lightweight application-protocol for devices that are constrained their resources such as computing power, RF range, memory, bandwith, or network packet sizes. 
